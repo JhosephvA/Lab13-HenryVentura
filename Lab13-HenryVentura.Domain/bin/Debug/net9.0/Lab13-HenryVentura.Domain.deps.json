@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lab13-HenryVentura.Domain/1.0.0": {
+        "runtime": {
+          "Lab13-HenryVentura.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab13-HenryVentura.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

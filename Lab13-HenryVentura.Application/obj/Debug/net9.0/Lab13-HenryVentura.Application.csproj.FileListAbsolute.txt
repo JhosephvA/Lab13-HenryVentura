@@ -1,0 +1,15 @@
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\bin\Debug\net9.0\Lab13-HenryVentura.Application.deps.json
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\bin\Debug\net9.0\Lab13-HenryVentura.Application.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\bin\Debug\net9.0\Lab13-HenryVentura.Application.pdb
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\bin\Debug\net9.0\Lab13-HenryVentura.Domain.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\bin\Debug\net9.0\Lab13-HenryVentura.Domain.pdb
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.csproj.AssemblyReference.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.AssemblyInfoInputs.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.AssemblyInfo.cs
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.csproj.CoreCompileInputs.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-He.ABB33536.Up2Date
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\refint\Lab13-HenryVentura.Application.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.pdb
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\ref\Lab13-HenryVentura.Application.dll

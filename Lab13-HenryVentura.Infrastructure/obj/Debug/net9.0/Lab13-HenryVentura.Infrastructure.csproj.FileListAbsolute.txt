@@ -1,0 +1,17 @@
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\bin\Debug\net9.0\Lab13-HenryVentura.Infrastructure.deps.json
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\bin\Debug\net9.0\Lab13-HenryVentura.Infrastructure.runtimeconfig.json
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\bin\Debug\net9.0\Lab13-HenryVentura.Infrastructure.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\bin\Debug\net9.0\Lab13-HenryVentura.Infrastructure.pdb
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\bin\Debug\net9.0\Lab13-HenryVentura.Domain.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\bin\Debug\net9.0\Lab13-HenryVentura.Domain.pdb
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.AssemblyInfo.cs
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-He.88799537.Up2Date
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\refint\Lab13-HenryVentura.Infrastructure.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.pdb
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.genruntimeconfig.cache
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\ref\Lab13-HenryVentura.Infrastructure.dll
