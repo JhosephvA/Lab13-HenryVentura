@@ -13,3 +13,4 @@ C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\o
 C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\refint\Lab13-HenryVentura.Application.dll
 C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.pdb
 C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\ref\Lab13-HenryVentura.Application.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Application\obj\Debug\net9.0\Lab13-HenryVentura.Application.sourcelink.json
