@@ -15,3 +15,4 @@ C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructur
 C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.pdb
 C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.genruntimeconfig.cache
 C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\ref\Lab13-HenryVentura.Infrastructure.dll
+C:\Users\Larry\RiderProjects\Lab13-HenryVentura\Lab13-HenryVentura.Infrastructure\obj\Debug\net9.0\Lab13-HenryVentura.Infrastructure.sourcelink.json
